@@ -7,4 +7,3 @@ Download the EXE here: https://github.com/GrantGMiller/activity_file_downloader/
 
 .. image:: https://raw.githubusercontent.com/GrantGMiller/activity_file_downloader/master/screenshot.png
   :width: 400
-  :alt: Alternative text
